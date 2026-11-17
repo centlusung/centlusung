@@ -1,6 +1,5 @@
-## Hi there 👋
 
-# Hi, I'm Vincent Andrei! 👋
+# Hi, I'm Vincent Lusung! 
 
 ### Computer Science Graduate | Software Developer | AI & Automation Enthusiast
 

@@ -38,39 +38,52 @@ Specialization in Software Development
 ## 🛠️ Technical Skills
 
 **Programming Languages**
-- Java
 - Python
-- JavaScript
-- TypeScript
+- Java
+- C#
+- C++
 - SQL
+- TypeScript
 
 **Frameworks & Development**
-- Spring Boot
+- .NET
 - Angular
-- FastAPI
-- RESTful API Development
+- JavaFX
+- FXML
+- Bootstrap
 
-**Artificial Intelligence & Automation**
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Natural Language Processing (NLP)
-- AI Integration
-- Playwright
-- Process Automation
+**Software Engineering Concepts**
+- Object-Oriented Programming (OOP)
+- CRUD Operations
+- RESTful API Development
+- Software Development Life Cycle (SDLC)
+- Agile Methodologies
 
 **Databases**
 - MySQL
-- ChromaDB
+- MongoDB
+- Firebase
 
-**DevOps & Development Tools**
-- Git & GitHub
+**DevOps & CI/CD**
 - Docker
+- Git
+- GitHub Actions
+- GitLab CI
 - Azure DevOps
-- Jira
-- Trello
-- Postman
-- AWS
 
+**Artificial Intelligence**
+- Large Language Models (LLMs)
+- Natural Language Processing (NLP)
+- Retrieval-Augmented Generation (RAG)
+- Semantic Search
+- Vector Databases
+
+**Development & Testing Tools**
+- Visual Studio Code
+- IntelliJ IDEA
+- Maven
+- Postman
+- Playwright
 ---
 
 ## 🌱 Areas of Interest
